@@ -1,0 +1,17 @@
+
+nav, section, footer, div{
+    text-align: center;
+    border: 2px solid black;
+    overflow-x: auto;
+}
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-child {
+    width: 55em;
+    float: left;
+    padding: 20px;
+   
+}  

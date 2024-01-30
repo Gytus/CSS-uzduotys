@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    border: 1px solid black;
+}
+header{
+    color: blue;
+    float: none;
+}
+nav{
+    color: aqua;
+    float: none;
+}
+.aside1{
+    color: rebeccapurple;
+    float: left;
+    width: 20rem;
+}
+main{
+    float: left;
+    width: 20rem;
+}
+.aside2{
+    color: cadetblue;
+    float: left;
+    width: 20rem;
+}
+
+footer{
+    color: brown;
+}   

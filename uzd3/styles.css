@@ -1,0 +1,16 @@
+.fill{
+    object-fit: fill;
+    background-repeat: repeat-x;
+}
+.cover{
+    object-fit: cover;
+}
+.contain{
+    object-fit: contain;
+}
+.none{
+    object-fit: none;
+}
+.scale{
+    object-fit: scale-down;
+}

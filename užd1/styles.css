@@ -1,0 +1,21 @@
+body{
+    background-color: grey;
+}
+.a{
+    border-radius: 90px;
+    border-style: dotted;
+    color: rebeccapurple;
+    padding: 10em;
+}
+.b{
+    border-radius: 25% 10%;
+    border-style: outset;
+    color: green;
+    padding: 10em;
+}
+.c{
+    border-radius: 50px 50% 50em 50em;
+    border-style: double;
+    color: blue;
+    padding: 10em;
+}

@@ -1,0 +1,31 @@
+.title{
+    color: rgb(0, 255, 0);
+}
+
+.color{
+    color: rgb(238, 255, 0);
+}
+
+.dotColor{
+    color: rgb(255, 0, 0);
+}
+
+.color2{
+    color: rgb(0, 0, 255);
+    text-decoration: underline;
+}
+.color3{
+    color: rgb(0, 0, 255);
+}
+.color4{
+    color: rgb(238, 130, 238);
+}
+.color5{
+    color: rgb(236, 78, 5);
+}
+.border{
+    border: 2px solid black;
+}
+.groveBorder{
+    border: inset 5px gray;
+}
